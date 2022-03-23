@@ -1,4 +1,4 @@
-# python
+# Python
  - datacamp
  - all python resource will be store here
  - numpy
